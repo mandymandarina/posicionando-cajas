@@ -1,0 +1,58 @@
+#relative {
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    position: relative;
+    left: 150px;
+    top:100px;
+}
+
+#relativetwo {
+    width: 150px;
+    height: 150px;
+    background-color: pink;
+    position: relative;
+    left: 225px;
+    top:-125px;
+}
+
+#relativethree {
+    width: 75px;
+    height: 75px;
+    background-color: yellow;
+    position: relative;
+    left: 225px;
+    top:-275px;
+}
+
+div {
+    display: block;
+}
+
+#absolute {
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    position: relative;
+    left: 150px;
+    top:-100px;
+    margin: 0px;
+}
+
+#relativefour {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    position: relative;
+    left: 225px;
+    top:-325px;
+}
+
+#relativefive {
+    width: 75px;
+    height: 75px;
+    background-color: black;
+    position: relative;
+    left: 150px;
+    top:-550px; 
+}
